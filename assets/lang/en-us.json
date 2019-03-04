@@ -5,7 +5,7 @@
     "addon.mod_assign.markingworkflowstatenotmarked": "Not graded",
     "addon.mod_assign.markingworkflowstatereadyforreview": "Grading completed",
     "addon.mod_quiz.marks": "Points",
-    "core.courses.notenroled": "You are not enrolled in this course",
+    "core.courses.notenroled": "You are not enrolled in this team",
     "core.decsep": ".",
     "core.labelsep": ":",
     "core.listsep": ",",
