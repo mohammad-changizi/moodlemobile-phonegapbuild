@@ -6,14 +6,14 @@
         versionCode = "36000"
         android-versionCode="36000"
         version   = "3.6.0">
-    <name>Moodle</name>
+    <name>MMDP</name>
 
     <description>
-        Moodle official app
+        MMDP official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        MMDP Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
